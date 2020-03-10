@@ -1,0 +1,1 @@
+SELECT AVG (quantidade) AS total FROM item_pedidos;

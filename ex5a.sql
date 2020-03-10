@@ -1,0 +1,1 @@
+SELECT  codigo_produto, quantidade FROM item_pedidos WHERE codigo_produto = 403
